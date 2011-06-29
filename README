@@ -2,7 +2,7 @@ test rdphelper
 
  Set up git
   git config --global user.name "Your Name"
-  git config --global user.email francois.marot@gmail.com
+  git config --global user.email francois.marot ||A-T|| gmail DOT com
         
 Next steps:
   mkdir rdphelper
